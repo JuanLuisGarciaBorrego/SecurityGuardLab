@@ -18,9 +18,9 @@ security:
         mi_area_segura:
             anonymous: ~
             provider: in_memory
-            form_login:
-                login_path: login_route
-                check_path: login_check_route
+            guard:
+                authenticators:
+                    - my_form_authenticator
             logout:
                 path: logout_route
                 target: homepage

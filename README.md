@@ -6,4 +6,4 @@ Por el momento hago uso de un formulario de login personalizado, la idea es ir a
 
 Ejemplo utilizado en la charla de PHP Sevilla sobre las novedades de la nueva versión 3 de symfony.
 
-[Sliders](http://blog.juanluisgarciaborrego.com/symfony3-que-hay-de-nuevo-viejo/) "Symfony3; ¿Qué hay de nuevo viejo?")
+[Sliders](http://blog.juanluisgarciaborrego.com/symfony3-que-hay-de-nuevo-viejo/) 
